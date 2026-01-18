@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj": {}
+    "c:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj": {
+    "c:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj",
+        "projectUniqueName": "c:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj",
+        "projectPath": "c:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\User2780\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\obj\\",
+        "outputPath": "c:\\Users\\User2780\\Desktop\\Lab1_ISRPO_Startsevaaa\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User2780\\AppData\\Roaming\\NuGet\\NuGet.Config",
